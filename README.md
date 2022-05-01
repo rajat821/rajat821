@@ -1,5 +1,5 @@
 <h1 align="center">Hello Folks <img src="https://c.tenor.com/hDlBmotiiXQAAAAi/gogi-waving-hands.gif" width="30px">, Rajat here!</h1>
-<h3 align="center">Pre-Final Year @CSE ||  Full Stack App Developer || Problem Solver.</h3>
+<h3 align="center">Pre-Final Year @CSE ||  Full Stack App Developer || Problem Solver</h3>
 
 <br/>
 <br/>
@@ -20,7 +20,7 @@ Hi, I’m Rajat Kumar Chandra.
 ## Coding Profiles :
 [![](https://img.shields.io/badge/-GeeksForGeeks-mediumgreen?style=for-the-badge&logo=GeeksForGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/rajat821/practice)](https://auth.geeksforgeeks.org/user/rajat821/practice)
 [![](https://img.shields.io/badge/-Leetcode-orange?style=for-the-badge&logo=Leetcode&logoColor=black&link=https://leetcode.com/rajat821/)](https://leetcode.com/rajat821/)
-[![](https://img.shields.io/badge/-HackerRank-black?style=for-the-badge&logo=HackerRank&logoColor=mediumgreen&link=https://leetcode.com/rajat821/)](https://leetcode.com/rajat821/)
+[![](https://img.shields.io/badge/-HackerRank-black?style=for-the-badge&logo=HackerRank&logoColor=mediumgreen&link=https://www.hackerrank.com/rajat821)](https://www.hackerrank.com/rajat821)
 [![](https://img.shields.io/badge/-Codechef-733d1d?style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/rajat821)](https://www.codechef.com/users/rajat821)
 
  
