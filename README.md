@@ -11,6 +11,8 @@
 Hi, I’m Rajat Kumar Chandra.
 - 🏫 I’m currently a 3rd year Undergrad pursuing B.tech in Computer Science
 - 🌱 I’m currently learning DSA, Web, Android, 🤔Actually Everything. But ready to collaborate to any of these
+- 🔭 Always ready to explore new technologies and gadgets in short a **TECH ENTHUSIAST**
+- 👨‍💻 Also having an immeasurable interest to work on CLOUD and BLOCKCHAIN based projects
 - 💻 **[Check out my projects!](https://github.com/rajat821?tab=repositories)**
 
 ## Connect With me :
@@ -36,4 +38,4 @@ Hi, I’m Rajat Kumar Chandra.
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat821&show_icons=true&theme=dracula&text_color=ffffff&locale=en&layout=compact" alt="rajat821" /></p>
 
 
-<!--<p align="center"> <img src="https://github.com/rajat821/rajat821/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>-->
+<p align="center"> <img src="https://github.com/rajat821/rajat821/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
