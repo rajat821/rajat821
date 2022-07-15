@@ -1,5 +1,5 @@
 <h1 align="center">Hello Folks <img src="https://c.tenor.com/hDlBmotiiXQAAAAi/gogi-waving-hands.gif" width="30px">, Rajat here!</h1>
-<h3 align="center">Pre-Final Year @CSE ||  Full Stack App Developer || Problem Solver</h3>
+<h3 align="center">Final Year @CSE ||  Full Stack App Developer || Problem Solver</h3>
 
 <br/>
 <br/>
@@ -9,7 +9,7 @@
 ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=rajat821)
 
 Hi, I’m Rajat Kumar Chandra.
-- 🏫 I’m currently a 3rd year Undergrad pursuing B.tech in Computer Science
+- 🏫 I’m currently a Final year Undergrad pursuing B.tech in Computer Science
 - 🌱 I’m currently learning DSA, Web, Android, 🤔Actually Everything. But ready to collaborate to any of these
 - 🔭 Always ready to explore new technologies and gadgets in short a **TECH ENTHUSIAST**
 - 👨‍💻 Also having an immeasurable interest to work on CLOUD and BLOCKCHAIN based projects
